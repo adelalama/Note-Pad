@@ -1,0 +1,23 @@
+{
+  "name": "note-pad",
+  "version": "1.0.0",
+  "description": "an app to take notes in an easy manner",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adelalama/Note-Pad.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adelalama/Note-Pad/issues"
+  },
+  "homepage": "https://github.com/adelalama/Note-Pad#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
